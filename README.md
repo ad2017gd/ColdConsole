@@ -1,15 +1,11 @@
 # ColdConsole 
 
 ## What is this?
-This is self-written OS. - CreepiYT
-
-this is version of planum. - Ad2017
-
-## Core:
-ColdConsole Planum
+This is a Version of the Core of ColdConsole.
 
 ## And who are the Developers?
- - CreepiYT
- - Ad2017 (meh)
+ - CreepiYT (me)
+ - Edgelord
+ - Samyocord 
 
-please report bugs thank.
+If you want to help make a pull request or Issue.
