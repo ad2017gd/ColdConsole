@@ -1,9 +1,7 @@
 # ColdConsole 
 
 ## What is this?
-This is self-written OS. - CreepiYT
-
-this is version of planum. - Ad2017
+This is a Version called Stelar.
 
 ## Core:
 ColdConsole Planum
